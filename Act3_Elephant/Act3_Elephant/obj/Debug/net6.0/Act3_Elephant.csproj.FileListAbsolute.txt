@@ -1,0 +1,15 @@
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\bin\Debug\net6.0\Act3_Elephant.exe
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\bin\Debug\net6.0\Act3_Elephant.deps.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\bin\Debug\net6.0\Act3_Elephant.runtimeconfig.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\bin\Debug\net6.0\Act3_Elephant.dll
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\bin\Debug\net6.0\Act3_Elephant.pdb
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\obj\Debug\net6.0\Act3_Elephant.csproj.AssemblyReference.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\obj\Debug\net6.0\Act3_Elephant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\obj\Debug\net6.0\Act3_Elephant.AssemblyInfoInputs.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\obj\Debug\net6.0\Act3_Elephant.AssemblyInfo.cs
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\obj\Debug\net6.0\Act3_Elephant.csproj.CoreCompileInputs.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\obj\Debug\net6.0\Act3_Elephant.dll
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\obj\Debug\net6.0\refint\Act3_Elephant.dll
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\obj\Debug\net6.0\Act3_Elephant.pdb
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\obj\Debug\net6.0\Act3_Elephant.genruntimeconfig.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act3_Elephant\Act3_Elephant\obj\Debug\net6.0\ref\Act3_Elephant.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Act3_Elephant/1.0.0": {
+        "runtime": {
+          "Act3_Elephant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Act3_Elephant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
